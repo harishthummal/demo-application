@@ -1,0 +1,28 @@
+.container{
+    background-color:whitesmoke;
+    padding: 100px;
+    border: 2px solid;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    max-width: 500px;
+    margin: 2vh 500px 0 500px;
+    box-shadow: 2px 2px 2px white;
+}
+.inner-item{
+     background-color:aqua;
+     margin: 10px; 
+     flex-direction: row;
+     padding: 5px;
+    
+}
+ .input{ 
+     background-color: aliceblue; 
+
+}
+form{
+    display:flexbox;
+    margin-top:auto;
+    margin-bottom: auto;
+    width:100%
+}
